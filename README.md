@@ -1,5 +1,5 @@
-# mi-block-de-notas
-Notas de mi curso de aprendizaje del Master en Coding
+# Block de Notas! 💻🌐
+Notas de mi curso de aprendizaje del Master en Coding.
 
 ## Temario
 
