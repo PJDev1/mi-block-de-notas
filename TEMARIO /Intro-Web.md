@@ -1,7 +1,12 @@
-# Intro a la Web
+# 1. Intro a la Web
 
-**Duración:**<br> 4 semanas.
+## Información del modulo
 
-**Descripción:**<br>   
-Aprender a trabajar con HTML y CSS para desarrollar sitios web estáticos responsivos y el uso básico de Git y Github para generar portafolio y desplegar sitios web.
+**Duración:** 
+>21 nov - 26 dic (4 semanas).
+
+**Descripción:**
+>Aprender a trabajar con HTML y CSS para desarrollar sitios web estáticos responsivos y el uso básico de Git y Github para generar portafolio y desplegar sitios web.
+
+### Apuntes 
 
